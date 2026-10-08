@@ -11,7 +11,7 @@ A arquitetura de dados para este projeto segue as camadas Bronze, Prata e Ouro d
 * **Camada Ouro:** Abriga os dados prontos para uso comercial, modelados em um esquema em estrela, necessários para geração de relatórios e análises.
 
 ---
-Visão Geral do Projeto
+# Visão Geral do Projeto
 Este projeto envolve:
 * **Arquitetura de Dados:** Projetar um Data Warehouse moderno usando a arquitetura Medallion nas camadas Bronze, Prata e Ouro.
 * **Pipelines ETL:** Extrair, transformar e carregar dados de sistemas de origem para o data warehouse.
