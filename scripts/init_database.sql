@@ -16,9 +16,7 @@ GO
 
 CREATE SCHEMA bronze;
 GO
-
 CREATE SCHEMA prata;
 GO
-
 CREATE SCHEMA ouro;
 GO
